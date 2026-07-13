@@ -1,2 +1,34 @@
-# 62d97bae-home-renovation-diy-scheduli
-Professional home renovation automation bot — without the professional price tag.  24/7 operation — runs on your server or scales to any hosting platform. Easy setup: invite → configure → active in under 10 minutes.  ## What's Included  - Home Renovation &amp; Diy Scheduling And Booking — fully configured and ready to use - Slash command interface for
+# Home Renovation & DIY Scheduling and Booking Telegram Bot
+
+Appointment booking, calendar sync, reminders, and waitlist management. No-app-needed booking for Home Renovation & DIY clients.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ6oH4ePcYIe00eM4cZL0m)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ6oH4ePcYIe00eM4cZL0m)
+
